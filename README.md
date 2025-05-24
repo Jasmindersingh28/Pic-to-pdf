@@ -31,7 +31,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
     <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="ca-app-pub-7482977341817103/4693896190"></script>
     
     <style>
         :root {
@@ -609,8 +609,8 @@
             <div class="ad-container">
                 <ins class="adsbygoogle"
                      style="display:block"
-                     data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                     data-ad-slot="YOUR_AD_SLOT_ID"
+                     data-ad-client="ca-app-pub-7482977341817103/4693896190"
+                     data-ad-slot="4693896190"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
                 <script>
@@ -742,8 +742,8 @@
         <div class="ad-container">
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                 data-ad-slot="YOUR_AD_SLOT_ID"
+                 data-ad-client="ca-app-pub-7482977341817103/4693896190"
+                 data-ad-slot="4693896190"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
             <script>
